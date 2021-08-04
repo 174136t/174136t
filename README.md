@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif"  />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif"  />
 
 <!-- [![My banner](https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif)](https://174136t.github.io) -->
 
