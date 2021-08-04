@@ -1,4 +1,7 @@
-[![My banner](https://i.imgur.com/HTm48iG.jpeg)](https://174136t.github.io)
+<img align="center" alt="GIF" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif"  />
+
+<!-- [![My banner](https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif)](https://174136t.github.io) -->
+
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Lahiru Neranjan and I'm an undergraduate of University of Moratuwa. You can find me on [![LinkedIn][3.2]][3].
 
