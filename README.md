@@ -8,7 +8,7 @@ My name is Lahiru Neranjan and I'm a software engineer, graduated from Faculty o
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
 
-<img src="https://img.shields.io/badge/Swift-02569B?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
