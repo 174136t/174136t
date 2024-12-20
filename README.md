@@ -3,11 +3,12 @@
 <!-- [![My banner](https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif)](https://174136t.github.io) -->
 
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Lahiru Neranjan and I'm an undergraduate of University of Moratuwa. You can find me on [![LinkedIn][3.2]][3].
+My name is Lahiru Neranjan and I'm a software engineer, graduated from Faculty of Information Technology of University of Moratuwa . You can find me on [![LinkedIn][3.2]][3].
 
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
 
+<img src="https://img.shields.io/badge/Swift-02569B?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
