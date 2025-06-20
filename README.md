@@ -3,7 +3,7 @@
 <!-- [![My banner](https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif)](https://174136t.github.io) -->
 
 # Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Lahiru Neranjan and I'm a software engineer, graduated from Faculty of Information Technology of University of Moratuwa . You can find me on [![LinkedIn][3.2]][3].
+My name is Lahiru Neranjan and I'm currently working as a Senior software engineer, graduated from Faculty of Information Technology of University of Moratuwa . You can find me on [![LinkedIn][3.2]][3].
 
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
