@@ -27,16 +27,17 @@
 
 <p style="margin-bottom: 6px;"><b>🛸 Core Frameworks & Languages</b></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,nextjs,python&perline=5" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,c,java,nextjs,python&perline=7" />
 </a>
 
 <br><br>
 
 <p style="margin-bottom: 6px;"><b>🛠️ Tools, Design & Collaboration</b></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=xcode,xd,git,bitbucket,notion,firebase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,blender,xd,git,bitbucket,notion,firebase,gcp&perline=5" />
 </a>
 <div style="margin-top: 4px;">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" />
 </div>
@@ -44,6 +45,8 @@
 <br><br>
 
 <p style="margin-bottom: 6px;"><b>🤖 AI & Agentic Workflows</b></p>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=00F5FF" />
 <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_AI-8E7CC3?style=for-the-badge&logo=googlegemini&logoColor=white" />
